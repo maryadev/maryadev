@@ -3,7 +3,7 @@
 # Hi there!
 
 ## A little bit about me:
-- 🏄‍♀️  Worked on a broad range of software development projects with a strong focus on scalability and quality
+- 🏄‍♀️  Worked on a broad range of startups keeping a strong focus on scalability and quality
 - 🌸  Enjoy learning new technologies and sharing findings with my colleagues
 - 💪  Proactive, self-organized, and excel at developing mobile and web applications
 - 💡  Always open to talk about ideas, challenges, opportunities
